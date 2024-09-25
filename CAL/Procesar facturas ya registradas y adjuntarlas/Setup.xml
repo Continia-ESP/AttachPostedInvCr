@@ -1,0 +1,1680 @@
+<Data>
+  <Table TableNo="6085575">
+    <Record Field1="HISTFAC" Field2="Compras- Histórico Facturas" Field3="23" Field5="0" Field6="0" Field10="0" Field11="0" Field12="1" Field13="true" Field14="true" Field15="1" Field16="300" Field18="false" Field21="0" Field25="false" Field26="1" Field27="2" Field29="38" Field30="39" Field31="false" Field32="3" Field33="0" Field39="0" Field45="false" Field50="6085749" Field53="{042BAF94-B6BB-40DA-A327-C0D56ACA6E5A}" Field55="false" Field56="6085760" Field58="6085764" Field60="0" Field61="0" Field62="0" Field64="false" Field66="false" Field67="false" Field68="false" Field70="6085618" Field72="6085621" Field74="6085577" Field76="false" Field78="200" Field79="1252" Field90="true">
+    </Record>
+  </Table>
+  <Table TableNo="6085759">
+    <Record Field1="HISTFAC" Field2="23" Field3="2" Field5="1">
+    </Record>
+    <Record Field1="HISTFAC" Field2="23" Field3="4" Field5="1">
+    </Record>
+    <Record Field1="HISTFAC" Field2="23" Field3="5" Field5="1">
+    </Record>
+    <Record Field1="HISTFAC" Field2="23" Field3="6" Field5="1">
+    </Record>
+    <Record Field1="HISTFAC" Field2="23" Field3="7" Field5="1">
+    </Record>
+    <Record Field1="HISTFAC" Field2="23" Field3="9" Field5="1">
+    </Record>
+    <Record Field1="HISTFAC" Field2="23" Field3="22" Field5="1">
+    </Record>
+    <Record Field1="HISTFAC" Field2="23" Field3="86" Field5="5">
+    </Record>
+    <Record Field1="HISTFAC" Field2="23" Field3="102" Field5="1">
+    </Record>
+    <Record Field1="HISTFAC" Field2="23" Field3="103" Field5="1">
+    </Record>
+  </Table>
+  <Table TableNo="6085579">
+    <Record Field1="HISTFAC-ES" Field2="HISTFAC" Field6="true" Field7="2" Field8="6085703" Field9="0" Field10="Principal - ES" Field12="0" Field13="0" Field14="60008" Field22="0" Field24="ESP" Field25="0" Field27="6085581" Field29="false" Field30="1" Field31="0" Field32="0" Field35="true" Field36="6085716" Field39="false" Field40="false" Field41="0" Field42="0" Field44="false" Field45="0" Field100="false" Field101="3" Field102="true" Field103="true" Field104="1" Field105="0" Field106="0" Field107="0" Field108="0" Field109="0" Field110="0" Field112="1" Field113="0" Field115="false" Field116="1" Field118="false" Field120="false" Field122="0" Field123="false" Field124="3" Field300="0" Field301="0" Field302="false" Field303="0" Field304="0" Field305="0" Field306="0" Field400="0">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="HISTFAC" Field6="false" Field7="1" Field8="6085702" Field9="0" Field10="Sistema - Identificación" Field12="0" Field13="0" Field14="0" Field22="0" Field24="ESP" Field25="0" Field27="0" Field29="false" Field30="0" Field31="0" Field32="0" Field35="false" Field36="0" Field39="false" Field40="false" Field41="0" Field42="0" Field44="false" Field45="0" Field100="false" Field101="0" Field102="false" Field103="false" Field104="0" Field105="0" Field106="0" Field107="0" Field108="0" Field109="0" Field110="0" Field112="0" Field113="0" Field115="false" Field116="0" Field118="false" Field120="false" Field122="0" Field123="false" Field124="0" Field300="0" Field301="0" Field302="false" Field303="0" Field304="0" Field305="0" Field306="0" Field400="0">
+    </Record>
+  </Table>
+  <Table TableNo="6085580">
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="1" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:2" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="90" Field32="Total IVA Excl." Field33="3" Field34="true" Field39="0" Field41="0" Field43="6085730" Field46="GLACCOUNTNO" Field47="1" Field49="0" Field52="0" Field53="0" Field55="{51AF41FF-2516-47E8-9AD6-FB66D9FEFD1C}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:2" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="170" Field32="Total IVA Incl." Field33="3" Field34="true" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{766F76CD-B606-4B36-8E5E-37874D027795}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:2" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="100" Field32="Total IVA Excl.2" Field33="3" Field34="false" Field39="0" Field41="0" Field43="0" Field47="1" Field49="0" Field52="0" Field53="0" Field55="{8887ECE6-B2F8-41F7-9EB5-2C36045BB627}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:2" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="110" Field32="Total IVA Excl.3" Field33="3" Field34="false" Field39="0" Field41="0" Field43="0" Field47="1" Field49="0" Field52="0" Field53="0" Field55="{EDF5358D-735B-4A1D-98EE-33AF58EE9EFA}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:2" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="120" Field32="Total IVA Excl.4" Field33="3" Field34="false" Field39="0" Field41="0" Field43="0" Field47="1" Field49="0" Field52="0" Field53="0" Field55="{067A99C9-E4BD-4F3A-BF57-6AD3523A417A}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="APPROVALFLOW" Field4="8" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ENA" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="200" Field32="Flujo aprobación" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="6085725" Field55="{6E56DDEA-ACA6-45A2-B2A0-1A59A0C60538}" Field56="1" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ÁREA" Field4="8" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="81" Field32="Área" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="349" Field55="{EBAE65FD-0C4B-448F-AF51-0A87FD97D7C1}" Field56="2" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="CAMPAÑAVENTA" Field4="8" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="82" Field32="Campaña venta" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="349" Field55="{DA116F90-9BA1-44D3-849A-893376303405}" Field56="2" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="COMPRADOR" Field4="8" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="83" Field32="Comprador" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="349" Field55="{2A0CC486-1209-4F53-BFF9-245687CA62B8}" Field56="2" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="CURRCODE" Field4="8" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="70" Field32="Código divisa" Field33="0" Field34="false" Field39="0" Field41="0" Field43="6085730" Field47="0" Field49="0" Field52="0" Field53="4" Field55="{DE0DE464-42D5-4599-842B-1CC7577BA2B8}" Field56="1" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCDATE" Field4="2" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="true" Field24="false" Field25="0" Field26="true" Field27="100" Field28="true" Field29="0" Field30="true" Field31="30" Field32="Fecha factura" Field33="0" Field34="false" Field39="0" Field41="0" Field43="6085719" Field47="0" Field49="0" Field52="1" Field53="0" Field55="{36622E7C-2405-4BFC-9241-A83898DEC92B}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="0" Field5="true" Field6="true" Field7="false" Field8="true" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="true" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="20" Field32="Nº factura" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{561DAF5A-A268-48DE-A2B2-87783B4417FA}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="true" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCTYPE" Field4="0" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="false" Field27="0" Field28="true" Field29="0" Field30="true" Field31="210" Field32="[F]actura / [A]bono" Field33="0" Field34="false" Field39="0" Field41="0" Field43="6085769" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{20C6822F-08DB-4C17-A0C8-29D7178A8384}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DPTO" Field4="8" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="84" Field32="Departamento" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="349" Field55="{A9E5F9AD-403D-4BE1-8E26-3561A465FED6}" Field56="2" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DUEDATE" Field4="2" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="true" Field24="false" Field25="0" Field26="true" Field27="100" Field28="true" Field29="0" Field30="true" Field31="40" Field32="Fecha vencimiento" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="1" Field53="0" Field55="{EFCB436F-63D7-494F-AE9B-C978336EE7C4}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:2" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="130" Field32="Importe transporte" Field33="3" Field34="false" Field39="0" Field41="0" Field43="0" Field47="2" Field48="AMOUNTEXCLVAT" Field49="0" Field52="0" Field53="0" Field55="{97076B39-EC2A-4D43-BC55-902AC8DE240B}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="GLACCOUNTNO" Field4="0" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="180" Field32="Nº cuenta G/L" Field33="0" Field34="false" Field39="6085737" Field41="6085736" Field43="6085713" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{7FAC90AE-D82C-490B-9F1A-04A5B94F0B01}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="GRUPOCLIENTE" Field4="8" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="85" Field32="Grupo cliente" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="349" Field55="{33F4B8FF-D7E2-48EE-B11E-7EDCE73BC589}" Field56="2" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="GRUPONEGOCIO" Field4="8" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="86" Field32="Grupo negocio" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="349" Field55="{186412A3-BDCB-474F-82B1-ABCE11950031}" Field56="2" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="JOBNO" Field4="8" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="80" Field32="Nº proyecto" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="167" Field55="{58D3CFB9-2869-4012-9FAC-841AEED851EA}" Field56="1" Field57="0" Field60="45" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="NOSERIES" Field4="8" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="10" Field32="Nos. serie" Field33="0" Field34="false" Field39="6085805" Field41="6085806" Field43="0" Field47="0" Field49="0" Field52="0" Field53="308" Field55="{AB2F2F4E-93DC-4285-AA02-35CF27A50797}" Field56="1" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURCONTACT" Field4="0" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="500" Field28="false" Field29="0" Field30="true" Field31="50" Field32="Contacto" Field33="0" Field34="false" Field39="0" Field41="6085739" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{7185F98A-37D2-4C41-91AA-2AD5C6B0059B}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURDOCNO" Field4="0" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="60" Field32="Nº pedido" Field33="0" Field34="false" Field39="0" Field41="6085714" Field43="6085730" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{35799A80-3674-4B42-86BA-A083DFFE97A0}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="POSTINGDESC" Field4="0" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="true" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="190" Field32="Descripción de registro" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{7FDF6E17-CB82-402A-88AB-6222BC779347}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="PROGRAMA" Field4="8" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="87" Field32="Programa" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="349" Field55="{A8334738-2FCB-44FC-B203-E518F7FCCF3B}" Field56="2" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="RESPCENTER" Field4="8" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="140" Field32="Centro responsabilidad" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{0CF71134-AC43-499C-A963-4073D0538BAD}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:2" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="160" Field32="Importe IVA" Field33="3" Field34="true" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{03FED4EB-ED8B-473F-8F4E-F411F49A16BD}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VENDEDOR" Field4="8" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="88" Field32="Vendedor" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="349" Field55="{E9CFBC93-0147-4A05-A664-1D5E108D4CB7}" Field56="2" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:2" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="true" Field29="0" Field30="true" Field31="150" Field32="Importe a tipo 0" Field33="3" Field34="true" Field39="0" Field41="0" Field43="0" Field47="1" Field49="0" Field52="0" Field53="0" Field55="{8B00003D-EFC5-487E-B2A1-AE7A5714C302}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DESC" Field4="0" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="500" Field28="false" Field29="0" Field30="true" Field31="20" Field32="Descripción" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{0B1EB690-ADAF-43F4-B28C-EBF74DF1B076}" Field56="0" Field57="0" Field60="0" Field61="false" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:5" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="false" Field29="0" Field30="true" Field31="60" Field32="Importe dto." Field33="0" Field34="true" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{DD469E9C-71DD-4A9F-8F42-DC05F1888C21}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCPCT" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="0:5" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="false" Field29="0" Field30="true" Field31="50" Field32="% dto." Field33="0" Field34="true" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{405AEAF2-7073-4D39-8197-0348F6B1DEA3}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:5" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="false" Field29="0" Field30="true" Field31="70" Field32="Importe línea" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{48F37113-BE50-4E00-9644-A4B6AF78D0E0}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="NO" Field4="0" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="false" Field29="0" Field30="true" Field31="10" Field32="Nº" Field33="0" Field34="false" Field39="0" Field41="0" Field43="6085766" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{000FD833-EEEA-4F80-8DF5-95D583900127}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="ORDERNO" Field4="0" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="false" Field29="0" Field30="true" Field31="25" Field32="Nº pedido" Field33="0" Field34="false" Field39="0" Field41="6085714" Field43="0" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{609938E6-FAEE-467B-A2C6-CDBB4AA48984}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="0:5" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="false" Field29="0" Field30="true" Field31="30" Field32="Cantidad" Field33="0" Field34="false" Field39="0" Field41="0" Field43="6085766" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{9C5875EE-61A7-410D-8C62-CD7A9364564B}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="1" Field5="false" Field6="true" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field20="2:5" Field21="true" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="true" Field27="0" Field28="false" Field29="0" Field30="true" Field31="40" Field32="Coste unidad" Field33="0" Field34="true" Field39="0" Field41="0" Field43="6085766" Field47="0" Field49="0" Field52="0" Field53="0" Field55="{FD117958-6248-45D9-B46B-A80FB940808B}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="0" Field5="false" Field6="false" Field7="false" Field8="false" Field9="false" Field10="0" Field11="0" Field13="0" Field19="true" Field21="false" Field22="ESP" Field23="false" Field24="false" Field25="0" Field26="false" Field27="200" Field28="false" Field29="0" Field30="true" Field31="1" Field32="Identificación fiscal" Field33="0" Field34="false" Field39="0" Field41="0" Field43="0" Field47="0" Field49="6085717" Field52="0" Field53="0" Field55="{6A9C2FB7-FB15-426B-9577-FBDA859C5F86}" Field56="0" Field57="0" Field60="0" Field61="true" Field62="false" Field63="false" Field64="false" Field65="0" Field66="0" Field67="false" Field101="false" Field102="0">
+    </Record>
+  </Table>
+  <Table TableNo="6085581">
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="10000" Field5="Total IVA Excl." Field6="0" Field7="0" Field8="0" Field9="0" Field10="15">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="20000" Field5="Importe sin IVA" Field6="0" Field7="0" Field8="0" Field9="0" Field10="15">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="30000" Field5="Sub-total" Field6="0" Field7="0" Field8="0" Field9="0" Field10="9">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="40000" Field5="Sub Total" Field6="0" Field7="0" Field8="0" Field9="0" Field10="9">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="50000" Field5="Subtotal" Field6="0" Field7="0" Field8="0" Field9="0" Field10="8">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="60000" Field5="Base" Field6="0" Field7="0" Field8="0" Field9="0" Field10="4">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="10000" Field5="Total IVA Incl." Field6="0" Field7="0" Field8="0" Field9="0" Field10="15">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="20000" Field5="Importe con IVA" Field6="0" Field7="0" Field8="0" Field9="0" Field10="15">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="30000" Field5="Total importe" Field6="0" Field7="0" Field8="0" Field9="0" Field10="13">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="40000" Field5="Total factura" Field6="0" Field7="0" Field8="0" Field9="0" Field10="13">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="50000" Field5="Importe total" Field6="0" Field7="0" Field8="0" Field9="0" Field10="13">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="60000" Field5="Total abono" Field6="0" Field7="0" Field8="0" Field9="0" Field10="11">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="70000" Field5="A pagar" Field6="0" Field7="0" Field8="0" Field9="0" Field10="7">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="80000" Field5="Total" Field6="0" Field7="0" Field8="0" Field9="0" Field10="5">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="CURRCODE" Field4="10000" Field5="Moneda" Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="CURRCODE" Field4="20000" Field5="Divisa" Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCDATE" Field4="10000" Field5="Fecha documento" Field6="0" Field7="0" Field8="0" Field9="0" Field10="15">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCDATE" Field4="20000" Field5="Fecha factura" Field6="0" Field7="0" Field8="0" Field9="0" Field10="13">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCDATE" Field4="30000" Field5="Fecha" Field6="0" Field7="0" Field8="0" Field9="0" Field10="5">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="10000" Field5="Num factura" Field6="0" Field7="0" Field8="0" Field9="0" Field10="11">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="20000" Field5="Invoice No." Field6="0" Field7="0" Field8="0" Field9="0" Field10="11">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="30000" Field5="Nº factura" Field6="0" Field7="0" Field8="0" Field9="0" Field10="10">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="40000" Field5="Nº abono" Field6="0" Field7="0" Field8="0" Field9="0" Field10="8">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="50000" Field5="Factura" Field6="0" Field7="0" Field8="0" Field9="0" Field10="7">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="60000" Field5="Número" Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="70000" Field5="Abono" Field6="0" Field7="0" Field8="0" Field9="0" Field10="5">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCTYPE" Field4="10000" Field5="F: Factura" Field6="0" Field7="0" Field8="0" Field9="0" Field10="10">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCTYPE" Field4="20000" Field5="A: Abono" Field6="0" Field7="0" Field8="0" Field9="0" Field10="8">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DUEDATE" Field4="10000" Field5="Fecha vencimiento" Field6="0" Field7="0" Field8="0" Field9="0" Field10="17">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DUEDATE" Field4="20000" Field5="Vencimiento" Field6="0" Field7="0" Field8="0" Field9="0" Field10="11">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DUEDATE" Field4="30000" Field5="Fecha pago" Field6="0" Field7="0" Field8="0" Field9="0" Field10="10">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DUEDATE" Field4="40000" Field5="vto" Field6="0" Field7="0" Field8="0" Field9="0" Field10="3">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="10000" Field5="Gastos transporte" Field6="0" Field7="0" Field8="0" Field9="0" Field10="17">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="20000" Field5="Transporte" Field6="0" Field7="0" Field8="0" Field9="0" Field10="10">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="GLACCOUNTNO" Field4="10000" Field5="Cuenta" Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="JOBNO" Field4="10000" Field5="Proyecto" Field6="0" Field7="0" Field8="0" Field9="0" Field10="8">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURCONTACT" Field4="10000" Field5="Su contacto" Field6="0" Field7="0" Field8="0" Field9="0" Field10="11">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURCONTACT" Field4="20000" Field5="Comprador" Field6="0" Field7="0" Field8="0" Field9="0" Field10="9">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURCONTACT" Field4="30000" Field5="Contacto" Field6="0" Field7="0" Field8="0" Field9="0" Field10="8">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURCONTACT" Field4="40000" Field5="Atención" Field6="0" Field7="0" Field8="0" Field9="0" Field10="8">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURCONTACT" Field4="50000" Field5="At." Field6="0" Field7="0" Field8="0" Field9="0" Field10="3">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURDOCNO" Field4="10000" Field5="Ref. interna" Field6="0" Field7="0" Field8="0" Field9="0" Field10="12">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURDOCNO" Field4="20000" Field5="Referencia" Field6="0" Field7="0" Field8="0" Field9="0" Field10="10">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURDOCNO" Field4="30000" Field5="Nº pedido" Field6="0" Field7="0" Field8="0" Field9="0" Field10="9">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="RESPCENTER" Field4="10000" Field5="Centro responsabilidad" Field6="0" Field7="0" Field8="0" Field9="0" Field10="22">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="RESPCENTER" Field4="20000" Field5="Centro" Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="10000" Field5="Importe IVA" Field6="0" Field7="0" Field8="0" Field9="0" Field10="11">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="20000" Field5="I.V.A." Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="30000" Field5="21.00%" Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="40000" Field5="IVA" Field6="0" Field7="0" Field8="0" Field9="0" Field10="3">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="50000" Field5="21%" Field6="0" Field7="0" Field8="0" Field9="0" Field10="3">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="10000" Field5="Sin IVA" Field6="0" Field7="0" Field8="0" Field9="0" Field10="7">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="20000" Field5="Exento" Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="10000" Field5="Dto factura" Field6="0" Field7="0" Field8="0" Field9="0" Field10="11">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCPCT" Field4="10000" Field5="Dto" Field6="0" Field7="0" Field8="0" Field9="0" Field10="3">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="10000" Field5="Importe Línea" Field6="0" Field7="0" Field8="0" Field9="0" Field10="13">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="20000" Field5="Importe" Field6="0" Field7="0" Field8="0" Field9="0" Field10="7">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="NO" Field4="10000" Field5="Código producto" Field6="0" Field7="0" Field8="0" Field9="0" Field10="15">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="NO" Field4="20000" Field5="Código artículo" Field6="0" Field7="0" Field8="0" Field9="0" Field10="15">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="NO" Field4="30000" Field5="Código" Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="ORDERNO" Field4="10000" Field5="Ref. interna" Field6="0" Field7="0" Field8="0" Field9="0" Field10="12">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="ORDERNO" Field4="20000" Field5="Referencia" Field6="0" Field7="0" Field8="0" Field9="0" Field10="10">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="ORDERNO" Field4="30000" Field5="Nº pedido" Field6="0" Field7="0" Field8="0" Field9="0" Field10="9">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="10000" Field5="Unidades" Field6="0" Field7="0" Field8="0" Field9="0" Field10="8">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="20000" Field5="Cantidad" Field6="0" Field7="0" Field8="0" Field9="0" Field10="8">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="30000" Field5="Cdad." Field6="0" Field7="0" Field8="0" Field9="0" Field10="5">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="40000" Field5="Ud." Field6="0" Field7="0" Field8="0" Field9="0" Field10="3">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="10000" Field5="Coste unitario" Field6="0" Field7="0" Field8="0" Field9="0" Field10="14">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="20000" Field5="Coste" Field6="0" Field7="0" Field8="0" Field9="0" Field10="5">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="10000" Field5="N.I.F." Field6="0" Field7="0" Field8="0" Field9="0" Field10="6">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="20000" Field5="C.I.F" Field6="0" Field7="0" Field8="0" Field9="0" Field10="5">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="30000" Field5="NIF" Field6="0" Field7="0" Field8="0" Field9="0" Field10="3">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="40000" Field5="CIF" Field6="0" Field7="0" Field8="0" Field9="0" Field10="3">
+    </Record>
+  </Table>
+  <Table TableNo="6085582">
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="170000" Field5="GPB." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="180000" Field5="GPB" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="170000" Field5="GPB." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="180000" Field5="GPB" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="170000" Field5="GPB." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="180000" Field5="GPB" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT2" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="170000" Field5="GPB." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="180000" Field5="GPB" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT3" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="170000" Field5="GPB." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="180000" Field5="GPB" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMT4" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="CURRCODE" Field4="10000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="CURRCODE" Field4="20000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="10000" Field5="." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="20000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="25000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="170000" Field5="GPB." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="180000" Field5="GPB" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="FREIGHTAMOUNT" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="GLACCOUNTNO" Field4="10000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="GLACCOUNTNO" Field4="20000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURCONTACT" Field4="5000" Field5="Dr" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURCONTACT" Field4="7500" Field5="Ms" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURCONTACT" Field4="8750" Field5="Miss" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURCONTACT" Field4="10000" Field5="Mr" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURCONTACT" Field4="15000" Field5="Sir" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURCONTACT" Field4="20000" Field5="." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURCONTACT" Field4="30000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURCONTACT" Field4="40000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURDOCNO" Field4="5000" Field5="." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURDOCNO" Field4="10000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="OURDOCNO" Field4="20000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="170000" Field5="GPB." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="180000" Field5="GPB" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="170000" Field5="GPB." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="180000" Field5="GPB" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="ZERORATEDAMOUNT" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DESC" Field4="10000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DESC" Field4="20000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="170000" Field5="GPB." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="180000" Field5="GPB" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCAMOUNT" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCPCT" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCPCT" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCPCT" Field4="25000" Field5="%" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCPCT" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCPCT" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCPCT" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="DISCPCT" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="170000" Field5="GPB." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="180000" Field5="GPB" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="LINEAMOUNT" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="NO" Field4="10000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="NO" Field4="20000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="ORDERNO" Field4="10000" Field5="." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="ORDERNO" Field4="20000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="ORDERNO" Field4="30000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="20000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="30000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="40000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="50000" Field5="STK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="60000" Field5="STK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="70000" Field5="stk." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="80000" Field5="stk" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="90000" Field5="PCS." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="100000" Field5="PCS" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="110000" Field5="pcs." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="QUANTITY" Field4="120000" Field5="pcs" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="10000" Field5="O" Field6="0" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="20000" Field5="/" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="30000" Field5="+" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="40000" Field5="¦" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="50000" Field5=":" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="60000" Field5="*" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="70000" Field5="EUR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="80000" Field5="EUR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="90000" Field5="KR." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="100000" Field5="KR" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="110000" Field5="DKK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="120000" Field5="DKK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="130000" Field5="NOK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="140000" Field5="NOK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="150000" Field5="SEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="160000" Field5="SEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="170000" Field5="GPB." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="180000" Field5="GPB" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="190000" Field5="USD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="200000" Field5="USD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="210000" Field5="CAD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="220000" Field5="CAD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="230000" Field5="AUD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="240000" Field5="AUD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="250000" Field5="NZD." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="260000" Field5="NZD" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="270000" Field5="US$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="280000" Field5="LEK." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="290000" Field5="LEK" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="300000" Field5="BZ." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="310000" Field5="BZ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="320000" Field5="$B" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="330000" Field5="KM." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="340000" Field5="KM" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="350000" Field5="RD$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="360000" Field5="FT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="370000" Field5="FT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="380000" Field5="RP." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="390000" Field5="RP" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="400000" Field5="LS." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="410000" Field5="LS" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="420000" Field5="LT." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="430000" Field5="LT" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="440000" Field5="F." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="450000" Field5="F" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="460000" Field5="R." Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="470000" Field5="R" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="480000" Field5="NT$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="490000" Field5="$" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="500000" Field5="£" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="510000" Field5="€" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="520000" Field5="¥" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="530000" Field5="¢" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="1" Field3="UNITCOST" Field4="540000" Field5="ƒ" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="10000" Field5="-" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="20000" Field5="." Field7="false">
+    </Record>
+  </Table>
+  <Table TableNo="6085583">
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTEXCLVAT" Field4="10000" Field5="&gt;=0" Field6="Número debe ser mayor o igual a cero" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="AMOUNTINCLVAT" Field4="10000" Field5="&gt;=0" Field6="Número debe ser mayor o igual a cero" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="CURRCODE" Field4="10000" Field5="[A-Z]{3}" Field6="3 números" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="20000" Field5="[0-9]{3}" Field6="3 números" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="30000" Field5="[0-9]{4}" Field6="4 números" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="40000" Field5="[0-9]{5}" Field6="5 números" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="50000" Field5="[0-9]{6}" Field6="6 números" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="60000" Field5="[0-9]{7}" Field6="7 números" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="70000" Field5="[0-9]{8}" Field6="8 números" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="80000" Field5="[0-9]{9}" Field6="9 números" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCNO" Field4="90000" Field5="[0-9]{10}" Field6="10 números" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCTYPE" Field4="10000" Field5="A" Field6="Abono" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="DOCTYPE" Field4="20000" Field5="F" Field6="Factura" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ES" Field2="0" Field3="VATAMOUNT" Field4="10000" Field5="&gt;=0" Field6="Número debe ser mayor o igual a cero" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="10000" Field5="(AL)?[J-K]{1}[0-9]{8}[A-Z]{1}" Field6="Albania" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="20000" Field5="(AR)?[0-9]{11}" Field6="Argentina" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="30000" Field5="(AU)?[0-9]{11}" Field6="Australia" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="40000" Field5="(ATU)?[0-9]{9}" Field6="Austria" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="50000" Field5="(BY)?[0-9]{9}" Field6="Belarus" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="60000" Field5="(BE)?0[0-9]{9}" Field6="Belgium" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="70000" Field5="(BR)?[0-9]{14}" Field6="Brasil" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="80000" Field5="(BG)?[0-9]{9,10}" Field6="Bulgaria" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="90000" Field5="(CA)?[0-9A-Z]{15}" Field6="Canada" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="100000" Field5="(CL)?[0-9]{9}" Field6="Chile" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="110000" Field5="(HR)?[0-9]{11}" Field6="Croatia" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="120000" Field5="(BG)?[0-9A-Z]{9}" Field6="Cyprus" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="130000" Field5="(CZ)?[0-9]{8,9,10}" Field6="Czech Republic" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="140000" Field5="(DK)?[0-9]{8}" Field6="Denmark" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="150000" Field5="(EC)?[0-9]{13}" Field6="Ecuador" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="160000" Field5="(ES)?[0-9]{9}" Field6="Estonia" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="170000" Field5="(FI)?[0-9]{8}" Field6="Finland" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="180000" Field5="(FR)?[0-9A-Z]{11}" Field6="France" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="190000" Field5="(DE)?[0-9]{9}" Field6="Germany" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="200000" Field5="(EL)?[0-9]{9}" Field6="Greece" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="210000" Field5="(GT)?[0-9]{8}" Field6="Guatemala" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="220000" Field5="(HU)?[0-9]{8}" Field6="Hungary" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="230000" Field5="(IE)?[0-9]{1}[A-Z]{1}[0-9]{5}[A-Z]{1}" Field6="Ireland" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="240000" Field5="(IT)?[0-9]{11}" Field6="Italy" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="250000" Field5="(LV)?[0-9]{11}" Field6="Latvia" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="260000" Field5="(LT)?[0-9]{9,11}" Field6="Lithuania" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="270000" Field5="(LU)?[0-9]{8}" Field6="Luxembourg" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="280000" Field5="(MT)?[0-9]{8}" Field6="Malta" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="290000" Field5="(MX)?[0-9]{12}" Field6="Mexico" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="300000" Field5="(NL)?[0-9A-Z]{12}" Field6="Netherlands" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="310000" Field5="(NO)?[0-9]{9}" Field6="Norway" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="320000" Field5="(PH)?[0-9]{12}" Field6="Philippines" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="330000" Field5="(PL)?[0-9]{10}" Field6="Poland" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="340000" Field5="(PT)?[0-9]{9}" Field6="Portugal" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="350000" Field5="(PL)?[0-9]{2,3,4,5,6,7,8,9,10}" Field6="Romania" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="360000" Field5="(RU)?[0-9]{10}" Field6="Russia" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="370000" Field5="(SM)?[0-9]{5}" Field6="San Marino" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="380000" Field5="(SK)?[0-9]{10}" Field6="Slovakia" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="390000" Field5="(SI)?[0-9]{8}" Field6="Slovenia" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="400000" Field5="(ES)?[0-9A-Z]{1}[0-9]{7}[0-9A-Z]{1}" Field6="Spain" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="410000" Field5="(SE)?[0-9]{10}01" Field6="Sweden" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="420000" Field5="(SM)?[0-9]{6}" Field6="Switzerland" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="430000" Field5="(TR)?[0-9]{10}" Field6="Turkey" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="440000" Field5="(UA)?[0-9]{12}" Field6="Ukraine" Field7="false">
+    </Record>
+    <Record Field1="HISTFAC-ID" Field2="0" Field3="VATREGNO" Field4="450000" Field5="(GB)?[0-9]{9,10,11,12}" Field6="United Kingdom" Field7="false">
+    </Record>
+  </Table>
+  <Table TableNo="6085762">
+    <Record Field1="{EBAE65FD-0C4B-448F-AF51-0A87FD97D7C1}" Field2="349" Field3="1" Field4="ÁREA" Field5="0" Field7="0" Field8="false" Field9="0" Field11="0">
+    </Record>
+    <Record Field1="{DA116F90-9BA1-44D3-849A-893376303405}" Field2="349" Field3="1" Field4="CAMPAÑAVENTA" Field5="0" Field7="0" Field8="false" Field9="0" Field11="0">
+    </Record>
+    <Record Field1="{2A0CC486-1209-4F53-BFF9-245687CA62B8}" Field2="349" Field3="1" Field4="COMPRADOR" Field5="0" Field7="0" Field8="false" Field9="0" Field11="0">
+    </Record>
+    <Record Field1="{A9E5F9AD-403D-4BE1-8E26-3561A465FED6}" Field2="349" Field3="1" Field4="DPTO" Field5="0" Field7="0" Field8="false" Field9="0" Field11="0">
+    </Record>
+    <Record Field1="{33F4B8FF-D7E2-48EE-B11E-7EDCE73BC589}" Field2="349" Field3="1" Field4="GRUPOCLIENTE" Field5="0" Field7="0" Field8="false" Field9="0" Field11="0">
+    </Record>
+    <Record Field1="{186412A3-BDCB-474F-82B1-ABCE11950031}" Field2="349" Field3="1" Field4="GRUPONEGOCIO" Field5="0" Field7="0" Field8="false" Field9="0" Field11="0">
+    </Record>
+    <Record Field1="{A8334738-2FCB-44FC-B203-E518F7FCCF3B}" Field2="349" Field3="1" Field4="PROGRAMA" Field5="0" Field7="0" Field8="false" Field9="0" Field11="0">
+    </Record>
+    <Record Field1="{E9CFBC93-0147-4A05-A664-1D5E108D4CB7}" Field2="349" Field3="1" Field4="VENDEDOR" Field5="0" Field7="0" Field8="false" Field9="0" Field11="0">
+    </Record>
+  </Table>
+</Data>

@@ -1,0 +1,101 @@
+OBJECT Codeunit 60008 CDC Posted Purch. Inv.  Mgt.
+{
+  OBJECT-PROPERTIES
+  {
+    Date=31/10/22;
+    Time=12:04:49;
+    Modified=Yes;
+    Version List=DC;
+  }
+  PROPERTIES
+  {
+    TableNo=6085590;
+    OnRun=VAR
+            Template@1160040015 : Record 6085579;
+            Field@1160040002 : Record 6085580;
+            Value@1160040004 : Record 6085593;
+            CaptureMgt@1003 : Codeunit 6085576;
+            DocumentCategory@1000 : Record 6085575;
+            PurchInvHeader@1100288000 : Record 122;
+            PurchCrMemoHeader@1100288002 : Record 124;
+            RecordLink@1002 : Record 2000000068;
+            RecID@1004 : RecordID;
+            TableNo@1008 : Integer;
+            DocNo@1005 : Code[20];
+            PurchDocMgt@1100288001 : Codeunit 6085709;
+            PreAssignedNo@1100288003 : Code[20];
+            SubType@1100288004 : Integer;
+          BEGIN
+            Template.GET("Template No.");
+
+            IF Field.GET("Template No.",Field.Type::Header,'DOCNO') THEN
+              DocNo := CaptureMgt.GetText(Rec,Field.Type::Header,Field.Code,0);
+
+            IF PurchDocMgt.GetIsInvoice(Rec) THEN BEGIN
+              PurchInvHeader.SETCURRENTKEY("Vendor Invoice No.");
+              PurchInvHeader.SETRANGE("Buy-from Vendor No.",GetSourceID);
+              PurchInvHeader.SETRANGE("Vendor Invoice No.",DocNo);
+              IF NOT PurchInvHeader.FINDSET THEN
+                EXIT;
+
+              RecID := PurchInvHeader.RECORDID;
+              TableNo := DATABASE::"Purchase Header";
+              PreAssignedNo := PurchInvHeader."Pre-Assigned No.";
+              SubType := 2;
+            END ELSE BEGIN
+              PurchCrMemoHeader.SETCURRENTKEY("Vendor Cr. Memo No.");
+              PurchCrMemoHeader.SETRANGE("Buy-from Vendor No.",GetSourceID);
+              PurchCrMemoHeader.SETRANGE("Vendor Cr. Memo No.",DocNo);
+              IF NOT PurchInvHeader.FINDSET THEN
+                EXIT;
+
+              RecID := PurchCrMemoHeader.RECORDID;
+              TableNo := DATABASE::"Purchase Header";
+              PreAssignedNo := PurchCrMemoHeader."Pre-Assigned No.";
+              SubType := 3;
+            END;
+
+            RecordLink.INIT;
+            RecordLink."Record ID" := RecID;
+            RecordLink.URL1 := GetFile(Rec);
+            RecordLink.Description := STRSUBSTNO(ShipmentTxt,Rec.TABLECAPTION,"No.");
+            RecordLink.Type := RecordLink.Type::Link;
+            RecordLink.Created := CREATEDATETIME(TODAY,TIME);
+            RecordLink."User ID" := USERID;
+            RecordLink.Company := COMPANYNAME;
+            RecordLink.INSERT;
+
+            Status := Status::Registered;
+            "Created Doc. Table No." := TableNo;
+            "Created Doc. Subtype" := SubType;
+            "Created Doc. No." := PreAssignedNo;
+            MODIFY(TRUE);
+          END;
+
+  }
+  CODE
+  {
+    VAR
+      ShipmentTxt@1000 : TextConst 'ENU=%1 - %2';
+
+    LOCAL PROCEDURE GetFile@1(Document@1001 : Record 6085590) : Text;
+    VAR
+      TempFile@1000 : TEMPORARY Record 6085614;
+    BEGIN
+      IF Document."File Type" = Document."File Type"::OCR THEN
+        Document.GetPdfFile(TempFile)
+      ELSE BEGIN
+        Document.GetMiscFile(TempFile);
+        TempFile.LoadData;
+        TempFile."File Location" := TempFile."File Location"::Memory;
+        TempFile.Name := Document.Description + '.' + Document."File Extension";
+      END;
+
+      EXIT(TempFile.Path + '\' + TempFile.Name);
+    END;
+
+    BEGIN
+    END.
+  }
+}
+
